@@ -20,7 +20,7 @@ Passionate about traveling and attending concerts, especially EDM events, which 
 ## 📫 Contact
 - **LinkedIn:** [Federico on LinkedIn](https://www.linkedin.com/in/federico-palcich/)
 - **Website:** [fezz.it](https://www.fezz.it)
-- **Fiverr:** [fedkerr6 on Fiverr](https://www.fiverr.com/fedkerr6)
+- **Fiverr:** [fedkerr6](https://www.fiverr.com/fedkerr6)
 
 ---
 
