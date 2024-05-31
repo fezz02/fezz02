@@ -5,7 +5,7 @@ I'm a web developer and freelancer from Sardinia, Italy. Since 2017, I've been i
 
 ## 🚀 Skills
 - **Laravel**: Web application development, MVC architecture, RESTful APIs.
-- **Vue3**: Dynamic UIs, Vue Router, Vuex.
+- **Vue3**: Dynamic UIs, Vue Router, Vuex/Pinia.
 - **Java**: Card games, algorithmic challenges.
 - **JavaScript & PHP**: Front-end and server-side development.
 - **SQL**: Database design and query optimization.
