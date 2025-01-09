@@ -1,9 +1,8 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<samp>
+<h1>Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
 
 <p align="center">
-  <samp>
     Passionate web developer and freelancer from Sardinia, Italy. Since 2017, I have been crafting digital solutions while embracing creativity and innovation. When not coding, I enjoy listening to EDM and learning new technologies to stay ahead in the tech world.
-  </samp>
   <br/>
   
   <br/>
@@ -59,3 +58,4 @@
   <!-- Git -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+</samp>
