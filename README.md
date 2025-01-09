@@ -2,7 +2,7 @@
 <h1>Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
 
 <p align="center">
-    Passionate web developer and freelancer from Sardinia, Italy. Since 2017, I have been crafting digital solutions while embracing creativity and innovation. When not coding, I enjoy listening to EDM and learning new technologies to stay ahead in the tech world.
+    I am Federico, a passionate web developer from Italy. I enjoy crafting creative and functional digital experiences. When not coding, I love listening to EDM and exploring new ideas in tech.
   <br/>
   
   <br/>
