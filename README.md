@@ -4,12 +4,6 @@
 <p align="center">
     I am Federico, a passionate web developer from Italy. I enjoy crafting creative and functional digital experiences. When not coding, I love listening to EDM and exploring new ideas in tech.
   <br/>
-  
-  <br/>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=fezz02&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=fezz02&show_icons=true">
-</picture></p>
 
 
 
